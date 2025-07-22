@@ -12,3 +12,5 @@
 | [RFD008](./rfd008-ament-16-06-25/) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 05 | 16/06/25 |
 | [RFD009](./rfd009-ament-03-07-25/) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 05 | 03/07/25 |
 | [RFD010](./rfd010-ament-11-07-25/) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 03 | 11/07/25 |
+| [RFD011](./rfd011-ament-18-07-25/) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 13 | 18/07/25 |
+| [RFD012](./rfd012-ament-21-07-25/) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 06 | 21/07/25 |
