@@ -25,6 +25,6 @@
 | [RFD021](./rfd021-creche-dnocs-11-07-25/) | CRECHE DNOCS | 40001/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 22 | 11/07/25 |
 | [RFD022](./rfd022-creche-dnocs-18-07-25/) | CRECHE DNOCS | 40001/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 36 | 18/07/25 |
 | [RFD023](./rfd023-creche-dnocs-21-07-25/) | CRECHE DNOCS | 40001/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 09 | 21/07/25 |
-
+| [RFD024](./rfd024-creche-dnocs-31-07-25/) | CRECHE DNOCS | 40001/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 67 | 31/07/25 |
 
 
