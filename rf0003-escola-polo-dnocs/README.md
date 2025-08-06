@@ -16,7 +16,5 @@
 | [RFD012](./rfd012-escola-polo-dnocs-11-07-25/) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 10 | 11/07/25 |
 | [RFD013](./rfd013-escola-polo-dnocs-18-07-25/) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 18 | 18/07/25 |
 | [RFD014](./rfd014-escola-polo-dnocs-21-07-25/) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 09 | 21/07/25 |
-
-
-
-
+| [RFD015](./rfd015-escola-polo-dnocs-31-07-25/) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 21 | 31/07/25 |
+| [RFD016](./rfd016-escola-polo-dnocs-06-08-25/) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 24 | 06/08/25 |
