@@ -6,3 +6,4 @@
 | [RF0002](./rf0002-creche-dnocs/) | CRECHE DNOCS | 40001/2023	| Tomada de Preços (Lei Nº 8.666/1993) | 06/08/2025 | 🟡 Em execução |
 | [RF0003](./rf0003-escola-polo-dnocs/) | ESCOLA POLO DNOCS | 	10005/2025 | Dispensa (Lei Nº 14.133/2021) | 06/08/2025 | 🟡 Em execução |
 | [RF0004](./rf0004-calcamento-nova-coremas/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 31/07/2025 | 🟡 Em execução |
+| [RF0005](./rf0005-calcamento-mae-dagua/) | CALÇAMENTO MÃE D'ÁGUA | 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 12/06/2025 | 🟢 Concluída |
