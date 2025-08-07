@@ -2,6 +2,7 @@
 
 | CÓDIGO | OBRA | NÚMERO | MODALIDADE | Nº REGISTROS | DATA |
 |---|---|---|---|---|---|
+| [RFD000](./rfd000-calcamento-nova-coremas-10-03-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 08 | 10/03/25 |
 | [RFD001](./rfd001-calcamento-nova-coremas-27-03-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 20 | 27/03/25 |
 | [RFD002](./rfd002-calcamento-nova-coremas-08-04-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 08 | 08/04/25 |
 | [RFD003](./rfd003-calcamento-nova-coremas-05-05-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 03 | 05/05/25 |
