@@ -15,4 +15,4 @@
 | [RFD011](https://github.com/NoScandalize/prefeitura-img/commit/5b8d8a2d6911adb4563a74c1d3e4472937f58544) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 13 | 18/07/25 |
 | [RFD012](https://github.com/NoScandalize/prefeitura-img/commit/09ccd6f958513b16f481d898b8b0a999e8ea9c77) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 06 | 21/07/25 |
 | [RFD013](https://github.com/NoScandalize/prefeitura-img/commit/059b3433ed0e9af36edadec030c7e14ec6a02043) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 16 | 31/07/25 |
-| [RFD014](https://github.com/NoScandalize/prefeitura-img/commit/3c2d48af116b0c6a9c9775c958360b7ebf159236) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 07 | 06/08/25 |
+| [RFD014](https://github.com/NoScandalize/prefeitura-img/commit/9c6059820b2000b3e44e08940aaee2b67b2785b4) | AMENT | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 18 | 14/08/25 |
