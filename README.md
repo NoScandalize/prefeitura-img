@@ -9,3 +9,4 @@
 | [RF0005](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0005-calcamento-mae-dagua/README.md) | CALÇAMENTO MÃE D'ÁGUA | 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 12/06/2025 | 🟢 Concluída |
 | [RF0006](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0006-calcamento-currais-dnocs-lucrenato/README.md) | CALÇAMENTO - CURRAIS, DNOCS E LUCRENATO | 40014/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 16/04/2025 | ⚠️ Abandonada - Parcialmente Concluída |
 | [RF0007](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0007-creche-nova-coremas/README.md) | CRECHE NOVA COREMAS | 40014/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 16/04/2025 | 🔴 Paralisada |
+| [RF0008](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0008-pavimento-parede-acude/README.md) | PAVIMENTO PAREDE DO AÇUDE | 00008/2021 | Tomada de Preços (Lei Nº 8.666/1993) | 06/03/2023 | 🟢 Concluída |
