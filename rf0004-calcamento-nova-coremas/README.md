@@ -2,14 +2,18 @@
 
 | CÓDIGO | OBRA | NÚMERO | MODALIDADE | Nº REGISTROS | DATA |
 |---|---|---|---|---|---|
-| [RFD000](./rfd000-calcamento-nova-coremas-10-03-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 08 | 10/03/25 |
-| [RFD001](./rfd001-calcamento-nova-coremas-27-03-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 20 | 27/03/25 |
-| [RFD002](./rfd002-calcamento-nova-coremas-08-04-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 08 | 08/04/25 |
-| [RFD003](./rfd003-calcamento-nova-coremas-05-05-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 03 | 05/05/25 |
-| [RFD004](./rfd004-calcamento-nova-coremas-02-06-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 05 | 02/06/25 |
-| [RFD005](./rfd005-calcamento-nova-coremas-04-06-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 02 | 04/06/25 |
-| [RFD006](./rfd006-calcamento-nova-coremas-16-06-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 07 | 16/06/25 |
-| [RFD007](./rfd007-calcamento-nova-coremas-03-07-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 04 | 03/07/25 |
-| [RFD008](./rfd008-calcamento-nova-coremas-18-07-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 06 | 18/07/25 |
-| [RFD009](./rfd009-calcamento-nova-coremas-31-07-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 06 | 31/07/25 |
-| [RFD010](./rfd010-calcamento-nova-coremas-11-09-25/) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 11 | 11/09/25 |
+| [RFD000](https://github.com/NoScandalize/prefeitura-img/commit/ab49971e12cefc484c5e2c33476b62860c6b40fc) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 08 | 10/03/25 |
+| [RFD001](https://github.com/NoScandalize/prefeitura-img/commit/33e4d635f20a66fde88ba93b4361208e6fa0368e) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 20 | 27/03/25 |
+| [RFD002](https://github.com/NoScandalize/prefeitura-img/commit/eb1876f7d2e9a90ae5271c045012fa70c17cc924) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 08 | 08/04/25 |
+| [RFD003](https://github.com/NoScandalize/prefeitura-img/commit/8f7c934d5729482d2bb3584784adaff1db370aa2) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 03 | 05/05/25 |
+| [RFD004](https://github.com/NoScandalize/prefeitura-img/commit/5bd8bbf259837dfcbbfd757de1f7545508b374d8) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 05 | 02/06/25 |
+| [RFD005](https://github.com/NoScandalize/prefeitura-img/commit/a058effcf433a87a076e0d95f492afb11b0db0f5) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 02 | 04/06/25 |
+| [RFD006](https://github.com/NoScandalize/prefeitura-img/commit/071d3b3d56d806b2282b8c2c2094ec71f36d7df3) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 07 | 16/06/25 |
+| [RFD007](https://github.com/NoScandalize/prefeitura-img/commit/d6f36eef33e18d4cec2d739e1461f1e76c6b18f8) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 04 | 03/07/25 |
+| [RFD008](https://github.com/NoScandalize/prefeitura-img/commit/2a83d8d6bc958a5684624d84b5942d4240f0ab8f) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 06 | 18/07/25 |
+| [RFD009](https://github.com/NoScandalize/prefeitura-img/commit/fcf269a8afdff39a8ffa7ea797775f2969f3f699) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 06 | 31/07/25 |
+| [RFD010](https://github.com/NoScandalize/prefeitura-img/commit/2a9076d2d271c980a5479fc26f26ee7a4eec9841) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 11 | 11/09/25 |
+| [RFD011](https://github.com/NoScandalize/prefeitura-img/commit/16412ef542bd097dc3ec60d0e002aa5135f5da75) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 05 | 19/09/25 |
+| [RFD012](https://github.com/NoScandalize/prefeitura-img/commit/b1d006ac8e40c89dca572743b0f6e0079e82f424) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 03 | 24/09/25 |
+| [RFD013](https://github.com/NoScandalize/prefeitura-img/commit/a4962421a644b934c8c66213c41b557d1d33bfa8) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 12 | 02/10/25 |
+| [RFD014](https://github.com/NoScandalize/prefeitura-img/commit/a4962421a644b934c8c66213c41b557d1d33bfa8) | CALÇAMENTO NOVA COREMAS | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 12 | 10/10/25 |
