@@ -2,7 +2,7 @@
 
 | IMAGEM | OBRA | NÚMERO | MODALIDADE | ÚLTIMA ATUALIZAÇÃO | SITUAÇÃO |
 |---|---|---|---|---|---|
-| ![AMENT](./rf0001-ament/rfd026-ament-29-10-25/ament-29-10-25-img001.jpg) | [AMENT](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0001-ament/README.md) | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 12/11/2025 | 🟡 Em execução |
+| ![AMENT](./rf0001-ament/rfd026-ament-29-10-25/ament-29-10-25-img001.jpg) | [AMENT](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0001-ament/README.md) | 00004/2024 | Concorrência (Lei Nº 14.133/2021) | 19/11/2025 | 🟡 Em execução |
 | ![CRECHE DNOCS](./rf0002-creche-dnocs/rfd029-creche-dnocs-28-08-25/creche-dnocs-28-08-25-img001.jpeg) | [CRECHE DNOCS](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0002-creche-dnocs/README.md) | 40001/2023	| Tomada de Preços (Lei Nº 8.666/1993) | 10/09/2025 | 🔴 Paralisada |
 | ![ESCOLA POLO DNOCS](./rf0003-escola-polo-dnocs/rfd017-escola-polo-dnocs-14-08-25/escola-polo-dnocs-14-08-25-img037.jpg) | [ESCOLA POLO DNOCS](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0003-escola-polo-dnocs/README.md) | 	10005/2025 | Dispensa (Lei Nº 14.133/2021) | 08/09/2025 | 🟢 Concluída |
 | ![CALÇAMENTO NOVA COREMAS](./rf0004-calcamento-nova-coremas/rfd014-calcamento-nova-coremas-10-10-25/calcamento-nova-coremas-10-10-25-img005.jpg) | [CALÇAMENTO NOVA COREMAS](https://github.com/NoScandalize/prefeitura-img/blob/main/rf0004-calcamento-nova-coremas/README.md) | 00013/2022 <br> 00008/2022 <br> 00001/2022 | Tomada de Preços (Lei Nº 8.666/1993) | 05/11/2025 | 🟡 Em execução |
