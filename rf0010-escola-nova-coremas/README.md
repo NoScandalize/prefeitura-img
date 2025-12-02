@@ -9,6 +9,5 @@
 
 ---
 
-> **[⬅️ VOLTAR](https://github.com/NoScandalize/prefeitura-img/blob/main/README.md)** 
-
----
+ | **[⬅️ VOLTAR](https://github.com/NoScandalize/prefeitura-img/blob/main/README.md)** |
+|---|
