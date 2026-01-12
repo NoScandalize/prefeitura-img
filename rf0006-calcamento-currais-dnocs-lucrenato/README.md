@@ -15,3 +15,4 @@
 | [RFD006](https://github.com/NoScandalize/prefeitura-img/commit/6cf358b0dccbdfd86a759876d7852531a638df04) | CALÇAMENTO - IRACEMA GONÇALVES(LADO DIREITO) | 40014/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 09 | 16/04/25 |
 | [RFD007](https://github.com/NoScandalize/prefeitura-img/commit/ef8635da2d79932a8541d682a10ea5fa314a930f) | CALÇAMENTO - JOAQUIM NOGUEIRA BRITO  | 40014/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 08 | 16/04/25 |
 | [RFD008](https://github.com/NoScandalize/prefeitura-img/commit/5addefd60ba8d5e4e0373e76349d28e9d51716fd) | CALÇAMENTO - JOSÉ LÚCIO DA SILVA | 40014/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 10 | 16/04/25 |
+| [RFD009](https://github.com/NoScandalize/prefeitura-img/commit/98d4e87ebf65386bf65dfc3fde8fc3ae477fe2cb) | CALÇAMENTO - MARIA RIBEIRO DA SILVA | 40014/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 05 | 03/12/25 |
