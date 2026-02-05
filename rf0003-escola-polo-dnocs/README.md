@@ -26,3 +26,4 @@
 | [RFD017](https://github.com/NoScandalize/prefeitura-img/commit/8a68df621efe129c29d8b150dc380d973d5d9397) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 47 | 14/08/25 |
 | [RFD018](https://github.com/NoScandalize/prefeitura-img/commit/45a15e96d6d3485b6eda5f43fd148d43a24c0b0c) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 05 | 08/09/25 |
 | [RFD019](https://github.com/NoScandalize/prefeitura-img/commit/30432d320ecb9bce9d26753b32df9651b77f6e2a) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 06 | 15/09/25 |
+| [RFD019](https://github.com/NoScandalize/prefeitura-img/commit/a78f2f224b2f7327c6edcea1b5e886ed8fd9afbe) | ESCOLA POLO DNOCS | 10005/2025 | Dispensa (Lei Nº 14.133/2021) | 95 | 05/02/26 |
