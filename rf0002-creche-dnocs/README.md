@@ -39,3 +39,4 @@
 | [RFD030](https://github.com/NoScandalize/prefeitura-img/commit/99b16889faad44b66f7bb20a875cc2bc27b3ce85) | CRECHE DNOCS | 40001/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 11 | 10/09/25 |
 | [RFD031](https://github.com/NoScandalize/prefeitura-img/commit/01010aeb608f5202d3a79eea6b0d4a56a7ce3e7c) | CRECHE DNOCS | 40001/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 19 | 09/02/26 |
 | [RFD032](https://github.com/NoScandalize/prefeitura-img/commit/479e757cdf7aecfc4febe23f7d18fe62b61b7301) | CRECHE DNOCS | 40001/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 31 | 13/02/26 |
+| [RFD033](https://github.com/NoScandalize/prefeitura-img/commit/2da8d0ba31c167463f9f12a7378e0922021cb7e9) | CRECHE DNOCS | 40001/2023 | Tomada de Preços (Lei Nº 8.666/1993) | 12 | 09/03/26 |
